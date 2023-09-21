@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sarthak Negi.
-#### I'm currently a sophomore at the University of Texas at San Antonio, majoring in Computer Science with a concentration in Data Science.
+#### I'm currently a junior at the University of Texas at San Antonio, majoring in Computer Science with a concentration in Data Science.
 
 
 - 🔭 I’m currently working on developing and training machine learning models for the DAC, UTSA.
