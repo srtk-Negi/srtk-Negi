@@ -6,10 +6,8 @@
 - 🌱 I’m currently learning different fields and aspects of AI, Machine Learning, Data Science and Software Engineering.
 - 💬 Ask me about my journey so far as an undergrad international student in the US.
 
-<h1 align="center">Hi 👋, I'm Sarthak!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srtk-negi&label=Profile%20views&color=0e75b6&style=flat" alt="srtk-negi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srtk-negi" alt="srtk-negi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/srtk_negi" target="blank"><img src="https://img.shields.io/twitter/follow/srtk_negi?logo=twitter&style=for-the-badge" alt="srtk_negi" /></a> </p>
 
