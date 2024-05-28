@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sarthak Negi.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8d72f8;&random=false&width=435&lines=print(%22Hey!+I'm+Sarthak%22))](https://git.io/typing-svg)
 #### I'm currently a junior at the University of Texas at San Antonio, majoring in Computer Science with a concentration in Data Science and Software Engineering.
 
 
